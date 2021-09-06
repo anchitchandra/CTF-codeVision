@@ -1,5 +1,6 @@
 # CTF-codeVision
-#OVERVIEW
+**#OVERVIEW**
+
 This website was created to conduct CTF competition for all students of BCET. This website was built with HTML, CSS and Flask- python module. Our main objective was to keep tarck of user for that insted of using Flask in-built session I created custom session because flask in-built session cannot track user on each question wihtout mixing it with previous and next questions. Once the user logins thorough unique ID & password which was provided before the competition the web side nots every movement done by the user on a single question and save the data in csv file. Solve all the given questions within time limit of 60 minutes.
       After solving a question you will be provided a link for your next question.
       Questions level will increase simultaneously as you progress.
